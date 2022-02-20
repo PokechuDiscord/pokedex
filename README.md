@@ -1,3 +1,3 @@
 # Pokédex
-A Pokedex Website by Pokéchu!
+A Pokedex Website by Pokéchu.
 
